@@ -16,7 +16,11 @@ This means that if a song can become popular in offline settings, it has a very 
 
 Final Summary
 In short, our data analysis leads to three basic conclusions: 
+
 i, Charts are important: Being on a chart effectively increases streams.
+
 ii, Platforms are important: Spotify is the main stage for a song to become a hit.
+
 iii, Offline promotion is important: A song that's hot on Shazam will almost certainly do well online.
+
 iv, A true hit song is an "all-rounder" that performs well in all these areas.
